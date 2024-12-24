@@ -1,0 +1,10 @@
+Which of the following is the truncation division operator in Python?;|;//;/;%;B
+What is the output of the following code? print(type([]));tuple;list;set;dictionary;B
+What will be the output of the following Python function? len(["hello",2, 4, 6]);Error;6;4;3;C
+What will be the output of the following Python code? print("abc. DEF".capitalize());Abc. def;abc. def;Abc. Def;ABC. DEF;A
+Which of the following statements is used to create an empty set in Python? ;( );[ ];{ };set();D
+Which method is used to add an element to a set in Python? ;add();append();insert();push();A
+To add a new element to a list we use which Python command? ;list1.addEnd(5);list1.addLast(5);list1.append(5);list1.add(5);C
+How do you add a new key-value pair to a dictionary? ;dict.append(key, value);dict.add(key, value);dict.update({key: value});dict[key] = value;D
+What are the two main types of functions in Python? ;System function;Custom function;Built-in function & User defined function;User function;C
+What is the output of? print(2 == 2) ;True;False;2;None;A
