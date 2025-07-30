@@ -74,14 +74,15 @@ Ensure each question block follows the same structure in the file.
 * Timed quizzes
 * Randomized questions and options
 
-🙋‍♀️ Author
-Hafsa Noor Muhammad 🎓 Final Year Software Engineering Student, UIT University
+## 🙋‍♀️ Author
 
-Feel free to reach out via 🔗 LinkedIn OR 🔗 GitHub
+**Hafsa Noor Muhammad**
+🎓 Final Year Software Engineering Student, UIT University
+ 
+Feel free to reach out via 
+🔗 [LinkedIn](https://www.linkedin.com/in/hafsa-noor-muhammad-67b96331a/) 
+                    OR 
+🔗 [GitHub](https://github.com/HafsaNoorMuhammad26)
+---
 
-
-⭐ If you found this project helpful, don’t forget to star the repo and share with your peers!. Feel free to fork the repository and submit a pull request.
-
-
-
-
+⭐ *If you found this project helpful, don’t forget to star the repo and share with your peers!*
