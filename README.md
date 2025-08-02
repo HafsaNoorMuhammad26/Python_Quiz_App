@@ -76,7 +76,7 @@ Ensure each question block follows the same structure in the file.
 
 🙋‍♀️ Author
 Hafsa Noor Muhammad 🎓 Final Year Software Engineering Student, UIT University
-🔗 [LinkedIn](https://www.linkedin.com/in/hafsa-noor-muhammad-67b96331a/)
-🔗 [GitHub](https://github.com/HafsaNoorMuhammad26)
+* 🌐 [GitHub](https://github.com/HafsaNoorMuhammad26)
+* 📎 [LinkedIn](https://www.linkedin.com/in/hafsa-noor-muhammad-67b96331a/)
 
 ⭐ If you found this project helpful, don’t forget to star the repo and share with your peers!
